@@ -24,7 +24,6 @@
     "prepack": "npm run build"
   },
   "dependencies": {
-    "kithwealai-covenant-engine": "file:../..",
     "zod": "^4.1.12"
   },
   "devDependencies": {
