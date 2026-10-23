@@ -28,6 +28,11 @@ npm test -- --pool=threads --maxWorkers=1
 
 Package sources live under `src/`; `npm pack` runs the build and includes compiled ESM, declarations, README, and license. The repository workspaces consume the compiled package; root scripts build it before tests, typecheck, and app development.
 
-## Companion
+## Open-Source Companion
 
-This package is the reusable companion artifact for the [KithWealAI Covenant Engine](../../README.md). No public registry release or separate GitHub repository is claimed yet. The copyright notice names project contributors; confirm ownership and contributor rights before publishing outside this repository.
+This package is the reusable open-source companion library for the [KithWealAI Covenant Engine](../../README.md), submitted to the Amazon Developer Hackathon Open Source Mini-Challenge.
+
+- **Public Repository:** [https://github.com/sivasubramanian86/household-covenant-schema](https://github.com/sivasubramanian86/household-covenant-schema)
+- **License:** MIT
+- **Dependencies:** Pure Zod (Zero AWS, cloud, or framework runtime dependencies)
+- **CI / CD:** Automated Matrix CI on Node 20.x & 22.x passing 100% green on GitHub Actions
