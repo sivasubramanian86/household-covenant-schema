@@ -1,3 +1,8 @@
+> [!NOTE]
+> **OFFICIAL PORTFOLIO SHOWCASE BY SIVASUBRAMANIAN**  
+> **Original Author:** [Sivasubramanian](https://github.com/sivasubramanian86)  
+> *This repository is an open portfolio showcase. Unauthorized cloning, re-hosting, or submission to hackathons/competitions under another name is strictly prohibited.*
+
 # @kithweal/household-covenant-schema
 
 [![CI](https://github.com/sivasubramanian86/household-covenant-schema/actions/workflows/ci.yml/badge.svg)](https://github.com/sivasubramanian86/household-covenant-schema/actions/workflows/ci.yml)
